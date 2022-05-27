@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "مقدمة إلى تصميم التفاعل Interaction Design"
+author: "صالح كيالي"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
